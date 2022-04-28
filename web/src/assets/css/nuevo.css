@@ -1,0 +1,51 @@
+.center-block {
+   display: block;
+   margin-right: auto;
+   margin-left: auto;
+}
+
+.enviarbtn {
+   position: absolute;
+   top: 670px;
+   left: 400px;
+   width: 500px;
+}
+
+.precio {
+   width: 100px;
+}
+
+.nuevo {
+   margin: 5px auto 40px auto;
+   border: 5px solid rgb(134, 11, 11);
+   overflow: hidden;
+   height: 775px;
+   width: 1250px;
+   position: absolute;
+   top: 130px;
+   left: 300px;
+}
+
+
+select {
+   border: none;
+   font-size: 17px;
+   height: 50px;
+   padding: 5px;
+   width: 250px;
+}
+
+select:focus {
+   outline: none;
+}
+
+.lista_scroll {
+   height: 800px;
+   overflow-y: scroll;
+   overflow-x:hidden; 
+}
+.lista_scroll_reservas {
+   height: 1000px;
+   overflow-y: scroll;
+   overflow-x:hidden; 
+}

@@ -1,0 +1,9 @@
+p.totalreserva{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100px;
+        width: 100px;
+        align-items: center;
+        border-radius: 50% 20% / 10% 40%;
+}
