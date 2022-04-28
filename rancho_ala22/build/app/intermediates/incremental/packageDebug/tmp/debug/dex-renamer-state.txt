@@ -1,0 +1,4 @@
+#Wed Apr 27 23:32:14 COT 2022
+base.0=C\:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

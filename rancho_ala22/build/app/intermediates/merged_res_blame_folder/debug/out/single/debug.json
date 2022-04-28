@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_militar2.png.flat",
+        "source": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\militar2.png"
+    },
+    {
+        "merged": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\build\\app\\intermediates\\res\\merged\\debug\\drawable-v21_launch_background.xml.flat",
+        "source": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\android\\app\\src\\main\\res\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\build\\app\\intermediates\\res\\merged\\debug\\drawable-v21_bg_color.xml.flat",
+        "source": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\android\\app\\src\\main\\res\\drawable-v21\\bg_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_militar.png.flat",
+        "source": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\android\\app\\src\\main\\res\\mipmap-mdpi\\militar.png"
+    },
+    {
+        "merged": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_militar2.png.flat",
+        "source": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\android\\app\\src\\main\\res\\mipmap-hdpi\\militar2.png"
+    },
+    {
+        "merged": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\build\\app\\intermediates\\res\\merged\\debug\\drawable_bg_color.xml.flat",
+        "source": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\android\\app\\src\\main\\res\\drawable\\bg_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo_ala22.png.flat",
+        "source": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\android\\app\\src\\main\\res\\mipmap-mdpi\\logo_ala22.png"
+    },
+    {
+        "merged": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_militar2.png.flat",
+        "source": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\android\\app\\src\\main\\res\\mipmap-xhdpi\\militar2.png"
+    },
+    {
+        "merged": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logo_ala22.png.flat",
+        "source": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_ala22.png"
+    },
+    {
+        "merged": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_militar2.png.flat",
+        "source": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\militar2.png"
+    },
+    {
+        "merged": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\build\\app\\intermediates\\res\\merged\\debug\\drawable_launch_background.xml.flat",
+        "source": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\android\\app\\src\\main\\res\\drawable\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_militar.png.flat",
+        "source": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\militar.png"
+    },
+    {
+        "merged": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo_ala22.png.flat",
+        "source": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_ala22.png"
+    },
+    {
+        "merged": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_militar.png.flat",
+        "source": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\militar.png"
+    },
+    {
+        "merged": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_militar.png.flat",
+        "source": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\android\\app\\src\\main\\res\\mipmap-xhdpi\\militar.png"
+    },
+    {
+        "merged": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo_ala22.png.flat",
+        "source": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\android\\app\\src\\main\\res\\mipmap-xhdpi\\logo_ala22.png"
+    },
+    {
+        "merged": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_militar2.png.flat",
+        "source": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\android\\app\\src\\main\\res\\mipmap-mdpi\\militar2.png"
+    },
+    {
+        "merged": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_militar.png.flat",
+        "source": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\android\\app\\src\\main\\res\\mipmap-hdpi\\militar.png"
+    },
+    {
+        "merged": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo_ala22.png.flat",
+        "source": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\android\\app\\src\\main\\res\\mipmap-hdpi\\logo_ala22.png"
+    },
+    {
+        "merged": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\belmont02\\Desktop\\webandapkAndroid\\rancho_ala22\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]
